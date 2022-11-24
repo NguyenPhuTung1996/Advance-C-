@@ -1,0 +1,2 @@
+Common:tung,tung@g.g,11111111,234,44;General:English,(GMT-00:00);Display:55,66,77;Sound:20,20,20,20
+Common:tung,tgfsdfs@g.g,22222222,34345,55;General:English,(GMT-00:00);Display:66,77,22;Sound:20,20,20,20
